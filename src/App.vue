@@ -1,5 +1,5 @@
 <template>
- <div>
+ <div id="app">
    <h1 class="text-center mt-5">Tabla de Usuario</h1>
    <table class="table table-striped mt-3">
      <thead>
